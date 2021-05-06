@@ -14,3 +14,26 @@ This is both __*italic and bold*__.
 ### Header 3
 
 ###### Header 6
+
+1. one
+   1. one point one
+   2. one point two
+3. two
+4. three
+
+
+- first element
+   - one one
+   - one two
+- second element
+- thrid element
+
+
+not part of the list
+
++ second list
++ thirs list
+- another list
+* another list
+
+
